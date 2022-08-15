@@ -1,0 +1,2 @@
+# zcash
+Zcash - Internet Money
